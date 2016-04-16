@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this line edit directly in Github.com
 
 
@@ -11,3 +12,16 @@ this line edit directly in Github.com
 	
 This line edit from PC
 asdf
+=======
+this line edit directly in Github.com
+
+
+
+
+			fasdf
+			asdf
+			asd
+			
+			asdf
+	
+>>>>>>> branch 'master' of https://github.com/hejiaming007/gitHelloworldProject.git
